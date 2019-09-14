@@ -1,0 +1,8 @@
+[Setup]
+Title=Top 40
+URL=http://mp3channels.webradio.antenne.de/top-40
+Info=Antenne Bayern
+
+[Icon]
+Small=antenne.bmp
+Big=antenne.jpg

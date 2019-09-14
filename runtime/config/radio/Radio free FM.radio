@@ -1,0 +1,8 @@
+[Setup]
+Title=Radio free FM
+URL=http://stream.freefm.de:8100/listen.pls
+Info=Ulm
+
+[Icon]
+Small=freefm.bmp
+Big=freefm.jpg

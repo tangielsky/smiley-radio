@@ -1,0 +1,8 @@
+[Setup]
+Title=bigFM
+URL=http://srv05.bigstreams.de/bigfm-mp3-64.m3u
+Info=
+
+[Icon]
+Small=bigfm.bmp
+Big=bigfm.jpg

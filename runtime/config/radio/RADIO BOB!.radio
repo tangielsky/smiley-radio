@@ -1,0 +1,8 @@
+[Setup]
+Title=RADIO BOB!
+URL=http://streams.radiobob.de/bob-live/mp3-192/mediaplayer
+Info=Rock’n Pop
+
+[Icon]
+Small=radiobob.bmp
+Big=radiobob.jpg

@@ -1,0 +1,8 @@
+[Setup]
+Title=Antenne Bayern
+URL=http://www.antenne.de/webradio/antenne.m3u
+Info=Wir lieben Bayern
+
+[Icon]
+Small=antenne.bmp
+Big=antenne.jpg

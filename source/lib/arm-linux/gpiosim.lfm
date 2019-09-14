@@ -1,0 +1,158 @@
+object GpioSimForm: TGpioSimForm
+  Left = 1021
+  Height = 282
+  Top = 144
+  Width = 138
+  BorderStyle = bsToolWindow
+  Caption = 'GPIO Simulation'
+  ClientHeight = 282
+  ClientWidth = 138
+  FormStyle = fsStayOnTop
+  OnCreate = FormCreate
+  LCLVersion = '2.0.0.4'
+  object Button1: TButton
+    Left = 13
+    Height = 25
+    Top = 26
+    Width = 90
+    Caption = 'Links'
+    OnClick = Button1Click
+    ParentFont = False
+    TabOrder = 0
+  end
+  object Button2: TButton
+    Left = 13
+    Height = 25
+    Top = 51
+    Width = 90
+    Caption = 'Rechts'
+    OnClick = Button2Click
+    ParentFont = False
+    TabOrder = 1
+  end
+  object Button3: TButton
+    Left = 13
+    Height = 25
+    Top = 77
+    Width = 90
+    Caption = 'Klick'
+    OnClick = Button3Click
+    ParentFont = False
+    TabOrder = 2
+  end
+  object Label1: TLabel
+    Left = 19
+    Height = 21
+    Top = 6
+    Width = 56
+    Caption = 'Drehrad'
+    ParentColor = False
+    ParentFont = False
+  end
+  object Button4: TButton
+    Left = 14
+    Height = 25
+    Top = 134
+    Width = 90
+    Caption = 'Motion Sensor'
+    OnClick = Button4Click
+    ParentFont = False
+    TabOrder = 3
+  end
+  object Button5: TButton
+    Left = 14
+    Height = 25
+    Top = 176
+    Width = 90
+    Caption = 'IR Sensor'
+    OnClick = Button5Click
+    ParentFont = False
+    TabOrder = 4
+  end
+  object Label2: TLabel
+    Left = 14
+    Height = 21
+    Top = 115
+    Width = 66
+    Caption = 'Sensoren'
+    ParentColor = False
+    ParentFont = False
+  end
+  object Label3: TLabel
+    Left = 14
+    Height = 21
+    Top = 232
+    Width = 28
+    Caption = 'LED'
+    ParentColor = False
+    ParentFont = False
+  end
+  object CheckBox1: TCheckBox
+    Left = 14
+    Height = 25
+    Top = 252
+    Width = 37
+    Caption = 'R'
+    OnChange = CheckBox1Change
+    ParentFont = False
+    TabOrder = 5
+  end
+  object CheckBox2: TCheckBox
+    Left = 54
+    Height = 25
+    Top = 252
+    Width = 37
+    Caption = 'G'
+    OnChange = CheckBox2Change
+    ParentFont = False
+    TabOrder = 6
+  end
+  object CheckBox3: TCheckBox
+    Left = 96
+    Height = 25
+    Top = 252
+    Width = 36
+    Caption = 'B'
+    OnChange = CheckBox3Change
+    ParentFont = False
+    TabOrder = 7
+  end
+  object Label4: TLabel
+    Left = 109
+    Height = 21
+    Top = 141
+    Width = 21
+    Caption = '0 s'
+    ParentColor = False
+    ParentFont = False
+  end
+  object Label5: TLabel
+    Left = 109
+    Height = 21
+    Top = 182
+    Width = 21
+    Caption = '0 s'
+    ParentColor = False
+    ParentFont = False
+  end
+  object Label4b: TLabel
+    Left = 16
+    Height = 16
+    Top = 160
+    Width = 16
+    Caption = '0 s'
+    Font.Height = -12
+    ParentColor = False
+    ParentFont = False
+  end
+  object Label5b: TLabel
+    Left = 14
+    Height = 16
+    Top = 200
+    Width = 16
+    Caption = '0 s'
+    Font.Height = -12
+    ParentColor = False
+    ParentFont = False
+  end
+end

@@ -1,0 +1,8 @@
+[Setup]
+Title=Radio 7
+URL=http://217.151.154.57:80/stream3/livestream.aac
+Info=Meine Musik, mein Zuhause
+
+[Icon]
+Small=radio7.bmp
+Big=radio7.jpg

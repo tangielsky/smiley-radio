@@ -1,0 +1,8 @@
+[Setup]
+Title=RTL
+URL=http://stream.104.6rtl.com/rtl-live/mp3-128
+Info=Deutschlands Hit-Radio
+
+[Icon]
+Small=rtl.bmp
+Big=rtl.jpg

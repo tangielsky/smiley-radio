@@ -1,0 +1,8 @@
+[Setup]
+Title=Hörspiele
+URL=http://streams.br.de/bayern2_2.m3u
+Info=Bayern 2
+
+[Icon]
+Small=bayern2.bmp
+Big=bayern2.jpg

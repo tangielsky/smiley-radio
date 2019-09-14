@@ -1,0 +1,8 @@
+[Setup]
+Title=JAM FM
+URL=http://www.jam.fm/streams/jam-nmr-mp3.pls
+Info=Musik die dich bewegt
+
+[Icon]
+Small=jamfm.bmp
+Big=jamfm.jpg

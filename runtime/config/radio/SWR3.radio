@@ -1,0 +1,8 @@
+[Setup]
+Title=SWR3
+URL=http://mp3-live.swr3.de/swr3_m.m3u
+Info=
+
+[Icon]
+Small=swr3.bmp
+Big=swr3.jpg

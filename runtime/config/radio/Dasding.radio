@@ -1,0 +1,8 @@
+[Setup]
+Title=Dasding
+URL=http://mp3-live.dasding.de/dasding_m.m3u
+Info=Live. Laut. Lässig.
+
+[Icon]
+Small=dasding.bmp
+Big=dasding.jpg

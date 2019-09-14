@@ -1,0 +1,8 @@
+[Setup]
+Title=Rockantenne
+URL=http://mp3channels.webradio.rockantenne.de/rockantenne
+Info=Antenne Bayern
+
+[Icon]
+Small=antenne.bmp
+Big=antenne.jpg
